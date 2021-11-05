@@ -12,7 +12,7 @@
 <h3 align="left">Conecta conmigo en LinkedIn:</h3>
 
 <p align="left">
-  <a  href="https://www.linkedin.com/in/luciacalisaya/" target="blank" style="text-decoration: none"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  alt="https://www.linkedin.com/in/luciacalisaya/" height="40" width="40" /> Lucía Calisaya</a>
+  <a href="https://www.linkedin.com/in/calisayalucia/" target="blank" style="text-decoration: none"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/luciacalisaya/" height="40" width="40" /> Lucía Calisaya</a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
